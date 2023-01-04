@@ -1,1 +1,1 @@
-IMG for Markdown
+IMG for Markdown files
